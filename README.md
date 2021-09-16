@@ -27,12 +27,15 @@
     </div>
 
 ## 🤝🏻 Conecte-se com a minha pessoa  
-<p>
+<p> <div>
 <a href="https://www.linkedin.com/in/victoria-magalhaes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-511281?style=flat&logo=linkedin&logoColor=white" width="100px">
   <a href = "mailto:macenavih@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_red" height="27px"> 
  </a>
-  
+  <img align="right" alt="Vivi" src="https://imgflip.com/embed/5n66zc"
+       
+
+</div>
   &nbsp;
   
   <div align="center">
