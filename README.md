@@ -1,16 +1,21 @@
-### Hi there 👋
+### Ah, que bom você chegou! 🎶 Bem-Vinda(o) ao meu GitHub! 👩🏽‍💻
 
-<!--
-**VictoriaMagalhaes/VictoriaMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🔭 Front-end em desenvolvimento;
+- 🌱 Estudando Javascript, HTML5 e CSS;
+- 📌 Moro em Aracaju, Sergipe - Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+<div align="center">
+  <strong>Ficando a cada dia mais encantada com a Tecnologia. 🤩</strong> 
+</div>
+
+## 💫 GitHub Stats   
+<div align="center">
+  <a href="https://github.com/VictoriaMagalhaes"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictoriaMagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&link=https://github.com/VictoriaMagalhaes"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamagalhaes&layout=compact&langs_count=16&theme=dracula&link=https://github.com/VictoriaMagalhaes"/>
+</div>
+    
