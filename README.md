@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-511281?style=flat&logo=linkedin&logoColor=white" width="100px">
   <a href = "mailto:macenavih@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_red" height="27px"> 
  </a>
-  <img align="right" alt="Vivi" src="https://imgflip.com/embed/5n66zc"
+ ![ezgif Gif-vivi](https://user-images.githubusercontent.com/88872981/133612032-6c0fdb94-a270-4f8e-856b-5c3c8737979c.gif)
        
 
 </div>
